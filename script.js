@@ -5,7 +5,7 @@ const orderForm = document.getElementById("orderForm");
 // Cambia este número por el WhatsApp real.
 // Formato recomendado: país + número, sin +, espacios ni guiones.
 // Ejemplo Monterrey: 528181234567
-const whatsappNumber = "520000000000";
+const whatsappNumber = "528343112021";
 
 menuToggle.addEventListener("click", () => {
   navMenu.classList.toggle("open");
