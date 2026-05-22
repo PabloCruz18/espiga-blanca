@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Logo Espiga Blanca</title>
+  <rect width="120" height="120" rx="30" fill="#fff8ec"/>
+  <path d="M59 98c2-25 1-47-3-67" stroke="#657246" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M61 35c19 4 28 16 31 31-18-1-30-10-31-31Z" fill="#c9973f"/>
+  <path d="M54 44c-18 5-26 17-28 31 17-1 29-11 28-31Z" fill="#e6cda7"/>
+  <path d="M61 59c18 5 26 17 28 30-17 0-28-10-28-30Z" fill="#657246"/>
+  <path d="M52 65c-15 5-22 15-24 27 15 0 24-9 24-27Z" fill="#c9973f"/>
+</svg>
