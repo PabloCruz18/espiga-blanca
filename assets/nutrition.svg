@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+<title id="title">Nutrición</title>
+<rect width="160" height="160" rx="24" fill="#fffaf0"/>
+<circle cx="80" cy="80" r="55" fill="#657246" opacity=".22"/>
+<path d="M80 122c-26-18-42-38-42-58 0-15 11-26 25-26 8 0 14 4 17 10 3-6 9-10 17-10 14 0 25 11 25 26 0 20-16 40-42 58Z" fill="none" stroke="#6b4427" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

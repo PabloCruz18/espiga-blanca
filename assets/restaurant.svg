@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+<title id="title">Restaurantes</title>
+<rect width="160" height="160" rx="24" fill="#fffaf0"/>
+<circle cx="80" cy="80" r="55" fill="#bb8433" opacity=".22"/>
+<path d="M52 37v45M68 37v45M60 82v43M103 38c14 12 16 34 1 49v38" fill="none" stroke="#6b4427" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

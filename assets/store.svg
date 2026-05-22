@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+<title id="title">Tiendas</title>
+<rect width="160" height="160" rx="24" fill="#fffaf0"/>
+<circle cx="80" cy="80" r="55" fill="#657246" opacity=".22"/>
+<path d="M42 113h76V65H42v48ZM35 65h90L112 42H48L35 65ZM57 113V84h28v29" fill="none" stroke="#6b4427" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
